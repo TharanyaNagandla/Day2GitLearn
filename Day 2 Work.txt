@@ -3,4 +3,8 @@ DevOps Day 2
 
 
 
+
 Modified in local repo
+
+Pull and push the data
+
