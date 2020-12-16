@@ -1,0 +1,7 @@
+D:\Specialisation Phase\DevOps Day 2\SampleApplicationSolution\SampleApplicationProject\bin\Debug\SampleApplicationProject.exe.config
+D:\Specialisation Phase\DevOps Day 2\SampleApplicationSolution\SampleApplicationProject\bin\Debug\SampleApplicationProject.exe
+D:\Specialisation Phase\DevOps Day 2\SampleApplicationSolution\SampleApplicationProject\bin\Debug\SampleApplicationProject.pdb
+D:\Specialisation Phase\DevOps Day 2\SampleApplicationSolution\SampleApplicationProject\obj\Debug\SampleApplicationProject.csprojAssemblyReference.cache
+D:\Specialisation Phase\DevOps Day 2\SampleApplicationSolution\SampleApplicationProject\obj\Debug\SampleApplicationProject.csproj.CoreCompileInputs.cache
+D:\Specialisation Phase\DevOps Day 2\SampleApplicationSolution\SampleApplicationProject\obj\Debug\SampleApplicationProject.exe
+D:\Specialisation Phase\DevOps Day 2\SampleApplicationSolution\SampleApplicationProject\obj\Debug\SampleApplicationProject.pdb
